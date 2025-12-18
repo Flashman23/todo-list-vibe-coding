@@ -3,41 +3,38 @@ Todo List Application
 A simple Todo List web application built as part of a university assignment on vibe coding tools.
 The project explores how AI-assisted development tools can accelerate front-end application creation.
 
-Preview
+Preview![alt text](<Screenshot 2025-12-18 220311.png>)
 
-(Optional) You can add a screenshot of the application here.
-
-public/preview.png
 
 Features
 
-Add new tasks
+  * Add new tasks
 
-Edit existing tasks
+  * Edit existing tasks
 
-Delete tasks
+  * Delete tasks
 
-Mark tasks as completed
+  * Mark tasks as completed
 
-Tasks persistence using localStorage
+  * Tasks persistence using localStorage
 
-Simple and clean user interface
+  * Simple and clean user interface
 
-Technologies Used
+Technologies Used:
 
-Next.js
+  * Next.js
 
-React
+  * React
 
-TypeScript
+  * TypeScript
 
-Tailwind CSS
+  * Tailwind CSS
 
-shadcn/ui
+  * shadcn/ui
 
-Lucide React
+  * Lucide React
 
-Vibe Coding Tool
+Vibe Coding Tool:
 
 This project was mainly developed using v0.dev
  by Vercel.
@@ -94,11 +91,11 @@ Academic Files
 
 This project includes two academic documents:
 
-ANALYSIS.md
+ANALYSIS.md:
 
 Research and comparison of different vibe coding tools (Cursor, Windsurf, Replit Agent, v0.dev, Bolt.new).
 
-EXPERIENCE.md
+EXPERIENCE.md:
 
 Personal development experience using v0.dev, including challenges and reflections.
 
