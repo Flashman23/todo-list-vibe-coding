@@ -100,16 +100,17 @@ Personal development experience using v0.dev, including challenges and reflectio
 
 Purpose of the Project
 
+
 The main objectives of this project are:
 
-To explore modern AI-assisted development tools
+  * To explore modern AI-assisted development tools
 
-To understand the concept of vibe coding
+  * To understand the concept of vibe coding
 
-To analyze advantages and limitations of these tools
+  * To analyze advantages and limitations of these tools
 
-To reflect on their use in an academic and beginner context
+  * To reflect on their use in an academic and beginner context
 
-License
+License:
 
 This project is intended for educational purposes and is released under the MIT License.
