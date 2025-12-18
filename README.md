@@ -58,44 +58,43 @@ FINAL DOC/
 └── next.config.mjs
 
 Installation and Setup
-Prerequisites
-
-Node.js
+Prerequisites;
+Node.js;
  (version 18 or higher)
+npm;
 
-npm
+Steps:
 
-Steps
+  * Clone the repository:
 
-Clone the repository:
+  * git clone https://github.com/Flashman23/todo-list-vibe-coding.git 
+    cd FINAL-DOC
 
-git clone https://github.com/Flashman23/todo-list-vibe-coding.git
-cd FINAL-DOC
+  * Install dependencies
 
+  * npm install
 
-Install dependencies:
+  * Run the development server
 
-npm install
+  * npm run dev
 
+  * Open your browser at:
 
-Run the development server:
+    http://localhost:3000
 
-npm run dev
-
-
-Open your browser at:
-
-http://localhost:3000
 
 Academic Files
 
-This project includes two academic documents:
+This project includes two academic documents
 
 ANALYSIS.md:
 
+
 Research and comparison of different vibe coding tools (Cursor, Windsurf, Replit Agent, v0.dev, Bolt.new).
 
+
 EXPERIENCE.md:
+
 
 Personal development experience using v0.dev, including challenges and reflections.
 
