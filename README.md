@@ -83,6 +83,21 @@ Steps:
     http://localhost:3000
 
 
+Running the Project with Docker
+Prerequisites:
+
+ * Docker Desktop installed and running
+
+ * Build the Docker Image from the project root directory
+    docker build -t todo-list-vibe .
+
+ * Run the Docker Container
+    docker run -p 3000:3000 todo-list-vibe
+
+ * Then open your browser at:
+    http://localhost:3000
+
+
 Academic Files
 
 This project includes two academic documents
@@ -114,3 +129,6 @@ The main objectives of this project are:
 License:
 
 This project is intended for educational purposes and is released under the MIT License.
+
+
+
